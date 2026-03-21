@@ -36,7 +36,7 @@ I pretrain YOLO backbones with DINO, generate synthetic data with Stable Diffusi
 
 | Project | What it does |
 |---------|-------------|
-| [Fit-Agent](https://github.com/souravMOD/Fit_Agent) | AI-powered fitness and nutrition agent. Send a photo of your meal, get instant calorie tracking and personalized advice |
+| [Fit_Agent](https://github.com/souravMOD/Fit_Agent) | AI-powered fitness and nutrition agent. Send a photo of your meal, get instant calorie tracking and personalized advice |
 | [PDF_RAG](https://github.com/souravMOD/PDF_RAG) | Retrieval-augmented generation pipeline over PDF documents |
 | [Object_detection_Huggingface](https://github.com/souravMOD/Object_detection_Huggingface) | Object detection experiments with HuggingFace models |
 | [GenAI-Pipeline_TrainEfficiency](https://github.com/AI4AgEng-Lab/GenAI-Pipeline_TrainEfficiency) | Full GenAI pipeline for synthetic weed data generation (SAM + SD + YOLO) |
