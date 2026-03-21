@@ -36,7 +36,7 @@ I pretrain YOLO backbones with DINO, generate synthetic data with Stable Diffusi
 
 | Project | What it does |
 |---------|-------------|
-| [Self_supervised_pretrained_YOLO](https://github.com/souravMOD/Self_supervised_pretrained_YOLO) | Production-ready SSL pretraining framework for YOLO using DINO distillation |
+| [Fit-Agent](https://github.com/souravMOD/Self_supervised_pretrained_YOLO) | Production-ready SSL pretraining framework for YOLO using DINO distillation |
 | [PDF_RAG](https://github.com/souravMOD/PDF_RAG) | Retrieval-augmented generation pipeline over PDF documents |
 | [Object_detection_Huggingface](https://github.com/souravMOD/Object_detection_Huggingface) | Object detection experiments with HuggingFace models |
 | [GenAI-Pipeline_TrainEfficiency](https://github.com/AI4AgEng-Lab/GenAI-Pipeline_TrainEfficiency) | Full GenAI pipeline for synthetic weed data generation (SAM + SD + YOLO) |
