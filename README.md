@@ -1,22 +1,37 @@
 # Hey, I'm Sourav 👋
 
-Teaching machines to see weeds and read PDFs. Computer vision + GenAI researcher based in Stuttgart, Germany.
+PhD researcher at the University of Hohenheim, based in Stuttgart. I work at the intersection of **computer vision** and **generative AI** — teaching machines to see weeds, generating synthetic training data, and compressing models to run on edge devices. Currently wrapping up my dissertation and excited about what comes next.
 
-I pretrain YOLO backbones with DINO, generate synthetic data with Stable Diffusion, and build RAG pipelines on the side. Currently wrapping up my PhD at the University of Hohenheim and excited about what comes next.
+I'm open to roles in applied ML, computer vision, and GenAI engineering.
+
+---
+
+### 🛠️ Tech stack
+
+`Python` · `PyTorch` · `Ultralytics YOLO` · `Stable Diffusion` · `HuggingFace` · `SAM` · `LangChain` · `Docker` · `GitHub Actions` · `ONNX` · `TensorRT` · `Rust` *(learning)*
+
+---
+
+### 📌 Featured projects
+
+| Project | What it does |
+|---------|-------------|
+| [GenAI-Pipeline_TrainEfficiency](https://github.com/AI4AgEng-Lab/GenAI-Pipeline_TrainEfficiency) | End-to-end GenAI pipeline for synthetic weed data — SAM segmentation → Stable Diffusion inpainting → YOLO training. Cuts manual labeling effort while maintaining detection accuracy. Accompanies our JSA 2025 paper |
+| [Fit_Agent](https://github.com/souravMOD/Fit_Agent) | AI-powered fitness & nutrition agent — snap a photo of your meal, get instant calorie estimates and personalized dietary advice. Built with vision LLMs |
+| [PDF_RAG](https://github.com/souravMOD/PDF_RAG) | Retrieval-augmented generation over PDF documents. Upload a PDF, ask questions, get cited answers. Built with LangChain |
+| [Object_detection_Huggingface](https://github.com/souravMOD/Object_detection_Huggingface) | Object detection experiments using HuggingFace Transformers — benchmarking pretrained models on custom datasets |
 
 ---
 
 ### 🔭 What I'm working on
 
-- **Self-supervised pretraining** — DINO distillation for YOLO models so they can learn from unlabelled images
-- **Synthetic data pipelines** — fine-tuning Stable Diffusion with DreamBooth to generate training data for weed detection
-- **Model compression** — quantization and knowledge distillation for deploying detection models on edge devices (Jetson Orin Nano)
-- **RAG systems** — building retrieval-augmented generation pipelines over PDFs
-- **Learning Rust** 🦀 — because why not add some speed to the stack
+- **Self-supervised pretraining** — DINO distillation for YOLO backbones, learning representations from unlabelled field images
+- **Synthetic data generation** — fine-tuning Stable Diffusion with DreamBooth to produce realistic weed images for training
+- **Model compression & edge deployment** — quantization and knowledge distillation to run detection models on Jetson Orin Nano in real time
+- **RAG systems** — building retrieval-augmented generation pipelines over research PDFs
+- **Learning Rust** 🦀 — adding some speed to the ML toolchain
 
-### 🛠️ Tech stack
-
-`Python` · `PyTorch` · `Ultralytics YOLO` · `Stable Diffusion` · `HuggingFace` · `SAM` · `LangChain` · `Docker` · `GitHub Actions` · `Rust` *(learning)*
+---
 
 ### 📄 Publications
 
@@ -32,23 +47,13 @@ I pretrain YOLO backbones with DINO, generate synthetic data with Stable Diffusi
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Sourav%20Modak-blue?style=flat&logo=google-scholar)](https://scholar.google.com/citations?user=yhPVDQoAAAAJ&hl=en)
 
-### 📌 Pinned projects
-
-| Project | What it does |
-|---------|-------------|
-| [Fit_Agent](https://github.com/souravMOD/Fit_Agent) | AI-powered fitness and nutrition agent. Send a photo of your meal, get instant calorie tracking and personalized advice |
-| [PDF_RAG](https://github.com/souravMOD/PDF_RAG) | Retrieval-augmented generation pipeline over PDF documents |
-| [Object_detection_Huggingface](https://github.com/souravMOD/Object_detection_Huggingface) | Object detection experiments with HuggingFace models |
-| [GenAI-Pipeline_TrainEfficiency](https://github.com/AI4AgEng-Lab/GenAI-Pipeline_TrainEfficiency) | Full GenAI pipeline for synthetic weed data generation (SAM + SD + YOLO) |
+---
 
 ### 📫 Let's connect
 
-I'm always open to interesting conversations — whether it's about GenAI, computer vision, edge deployment, or a cool project you think I'd be a good fit for.
+I'm always up for conversations about GenAI, computer vision, edge deployment, or interesting project ideas.
 
-- 📍 Stuttgart, Germany
-- 🐙 [github.com/souravMOD](https://github.com/souravMOD)
-- 🎓 [Google Scholar](https://scholar.google.com/citations?user=yhPVDQoAAAAJ&hl=en)
-- 💼 [LinkedIn](https://www.linkedin.com/in/sourav-modak-a04237157/)
+📍 Stuttgart, Germany · [GitHub](https://github.com/souravMOD) · [Google Scholar](https://scholar.google.com/citations?user=yhPVDQoAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/sourav-modak-a04237157/)
 
 ---
 
