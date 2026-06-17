@@ -49,7 +49,7 @@ AI Engineer and PhD researcher building **generative AI** and **agentic LLM syst
 
 |Domain                     |Tools & Frameworks                                                                             |
 |---------------------------|-----------------------------------------------------------------------------------------------|
-|**Languages**              |Python, Rust *(learning)*                                                                      |
+|**Languages**              |Python, C++, Rust *(learning)*                                                                      |
 |**GenAI & LLMs**           |Stable Diffusion, DreamBooth/LoRA, HuggingFace Transformers & Diffusers, vision-language models|
 |**Agentic & RAG**          |LangChain, LangGraph, retrieval-augmented generation, tool-using agents, vector stores         |
 |**Computer Vision**        |PyTorch, Ultralytics YOLO, Segment Anything (SAM), detection & segmentation                    |
