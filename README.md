@@ -2,9 +2,6 @@
 
 PhD researcher at the University of Hohenheim, based in Stuttgart. I work at the intersection of **computer vision** and **generative AI** — teaching machines to see weeds, generating synthetic training data, and compressing models to run on edge devices. Currently wrapping up my dissertation and excited about what comes next.
 
-I'm open to roles in applied ML, computer vision, and GenAI engineering.
-
----
 
 ### 🛠️ Tech stack
 
