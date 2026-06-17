@@ -31,8 +31,8 @@ AI Engineer and PhD researcher building **generative AI** and **agentic LLM syst
 
 - Design and operate **data automation pipelines** across the robotics data lifecycle, from ingestion to transformation at scale.
 - Build **annotation automation** that reduces manual labeling effort while preserving dataset quality.
-- Automate **robotics data manipulation** — reshaping and wrangling multi-source sensor/robot data into training-ready form.
-- Lead **QA analysis** to enforce data-quality standards across the pipeline.
+- eAutomate **robotics data manipulation** .
+-  **QA analysis** to enforce data-quality standards across the pipeline.
 
 ### University of Hohenheim — PhD Researcher (Computer Vision & Generative AI)
 
