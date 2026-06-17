@@ -25,7 +25,7 @@ AI Engineer and PhD researcher building **generative AI** and **agentic LLM syst
 
 ## Experience
 
-### Neura Robotics — AI / Data Engineer
+### Neura Robotics — AI Engineer
 
 *Stuttgart, Germany · [05.2026] – Present*
 
